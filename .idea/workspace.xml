@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e12bd02-9e1f-4d9d-a3c8-529861d74473" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backtracking/Subsets.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/fourteen/KClosestPointToOrigin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/fourteen/KClosestPointToOrigin.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +128,8 @@
       <workItem from="1674741330515" duration="849000" />
       <workItem from="1674833694412" duration="36000" />
       <workItem from="1675332090605" duration="4092000" />
-      <workItem from="1675347838548" duration="8925000" />
+      <workItem from="1675347838548" duration="10007000" />
+      <workItem from="1675885746093" duration="1385000" />
     </task>
     <servers />
   </component>

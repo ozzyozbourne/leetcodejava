@@ -1,9 +1,6 @@
 package org.example.fourteen;
 
-import java.util.Collections;
-import java.util.Comparator;
 import java.util.PriorityQueue;
-import java.util.function.Function;
 
 public class KClosestPointToOrigin {
 
