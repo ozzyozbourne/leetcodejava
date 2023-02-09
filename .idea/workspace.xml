@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e12bd02-9e1f-4d9d-a3c8-529861d74473" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backtracking/Subsets.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/fourteen/KClosestPointToOrigin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/fourteen/KClosestPointToOrigin.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +40,9 @@
     <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="2Krmxuuhkh5wW6q8d1opdOZkpVE" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -112,8 +112,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.KLargestElements" />
         <item itemvalue="Application.KthSmallestElement" />
+        <item itemvalue="Application.KLargestElements" />
       </list>
     </recent_temporary>
   </component>
@@ -129,7 +129,9 @@
       <workItem from="1674833694412" duration="36000" />
       <workItem from="1675332090605" duration="4092000" />
       <workItem from="1675347838548" duration="10007000" />
-      <workItem from="1675885746093" duration="1385000" />
+      <workItem from="1675885746093" duration="1654000" />
+      <workItem from="1675888189672" duration="914000" />
+      <workItem from="1675948603391" duration="3816000" />
     </task>
     <servers />
   </component>
