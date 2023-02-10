@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8e12bd02-9e1f-4d9d-a3c8-529861d74473" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,7 +146,7 @@
       <workItem from="1675885746093" duration="1654000" />
       <workItem from="1675888189672" duration="914000" />
       <workItem from="1675948603391" duration="5809000" />
-      <workItem from="1676004013222" duration="10794000" />
+      <workItem from="1676004013222" duration="18084000" />
     </task>
     <servers />
   </component>
@@ -156,16 +155,5 @@
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/backtracking/PermutationsTwo.java</url>
-          <line>29</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
