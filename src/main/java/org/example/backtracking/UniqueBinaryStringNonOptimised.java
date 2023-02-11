@@ -16,12 +16,12 @@ public class UniqueBinaryStringNonOptimised {
     }
 
     private static void generateBinaryStrings(String s, String t, int l, Set<String> set, Set<String> givenNumbersSet) {
-        if(s.length()>l) return;
-        if(s.length()==l)
+        if(s.length()==l){
             if(!givenNumbersSet.contains(s)) {
                 set.add(s);
                 return;
-            }
+            }return;
+        }
         s+=t;
         generateBinaryStrings(s, "1", l, set, givenNumbersSet);
         generateBinaryStrings(s, "0", l, set, givenNumbersSet);

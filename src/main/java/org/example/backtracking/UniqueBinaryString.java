@@ -4,26 +4,27 @@ import java.util.*;
 
 public class UniqueBinaryString {
 
-    private final List<String> setActual = new ArrayList<>();
-    private String allBinaryStrSet;
+    private final Set<String>  set = new HashSet<>();
+    private final StringBuffer sb = new StringBuffer();
 
     public String findDifferentBinaryString(String[] nums) {
-        Collections.addAll(setActual, nums);
-        generateBinaryStrings(0, "");
-        return allBinaryStrSet;
+        Collections.addAll(set, nums);
+        generateBinaryStrings(0);
+        return sb.toString();
     }
 
-    private void generateBinaryStrings(int s, String t) {
-        if(s == setActual.size()){
-            if(!setActual.contains(t)) {
-                allBinaryStrSet = t;
-                return;
-            } return;
-        }
-        generateBinaryStrings(s +1,t+"1");
-        if (allBinaryStrSet != null) return;
-        generateBinaryStrings(s +1,t+"0");
-        if (allBinaryStrSet != null) return;
+    private boolean generateBinaryStrings(int s) {
+        if(s == set.size()) return !set.contains(sb.toString());
+
+        sb.append('1');
+        if (generateBinaryStrings(s + 1)) return true;
+        sb.deleteCharAt(sb.length()-1);
+
+        sb.append('0');
+        if (generateBinaryStrings(s + 1)) return true;
+        sb.deleteCharAt(sb.length()-1);
+
+        return false;
     }
 
     public static void main(String[] args) {
