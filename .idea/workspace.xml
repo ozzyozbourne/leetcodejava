@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8e12bd02-9e1f-4d9d-a3c8-529861d74473" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/backtracking/UniqueBinaryString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/backtracking/UniqueBinaryString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,13 +65,13 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ReverseStringOnO1">
-    <configuration name="PermutationsTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.backtracking.PermutationsTwo" />
+  <component name="RunManager" selected="Application.LongestIncreasingSubsequence">
+    <configuration name="LongestIncreasingSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.dynamicprogramming.LongestIncreasingSubsequence" />
       <module name="leetcodejava.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.backtracking.*" />
+          <option name="PATTERN" value="org.example.dynamicprogramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UniqueBinaryString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.backtracking.UniqueBinaryString" />
+    <configuration name="ReverseVowelsOfAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.easy.ReverseVowelsOfAString" />
       <module name="leetcodejava.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.backtracking.*" />
+          <option name="PATTERN" value="org.example.easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LongestIncreasingSubsequence" />
+        <item itemvalue="Application.ReverseVowelsOfAString" />
         <item itemvalue="Application.ReverseStringOnO1" />
         <item itemvalue="Application.subsets" />
         <item itemvalue="Application.UniqueBinaryStringNonOptimised" />
-        <item itemvalue="Application.UniqueBinaryString" />
-        <item itemvalue="Application.PermutationsTwo" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +178,8 @@
       <workItem from="1676004013222" duration="29530000" />
       <workItem from="1676125340869" duration="43000" />
       <workItem from="1676129194678" duration="3435000" />
-      <workItem from="1676188368064" duration="5907000" />
+      <workItem from="1676188368064" duration="14021000" />
+      <workItem from="1676236569737" duration="300000" />
     </task>
     <servers />
   </component>
@@ -194,6 +196,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/example/easy/ReverseStringOnO1.java</url>
           <line>7</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/dynamicprogramming/LongestIncreasingSubsequence.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

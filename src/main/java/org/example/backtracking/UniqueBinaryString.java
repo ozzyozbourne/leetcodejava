@@ -5,7 +5,7 @@ import java.util.*;
 public class UniqueBinaryString {
 
     private final Set<String>  set = new HashSet<>();
-    private final StringBuffer sb = new StringBuffer();
+    private final StringBuilder sb = new StringBuilder();
 
     public String findDifferentBinaryString(String[] nums) {
         Collections.addAll(set, nums);
