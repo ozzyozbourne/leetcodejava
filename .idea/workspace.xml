@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8e12bd02-9e1f-4d9d-a3c8-529861d74473" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/backtracking/UniqueBinaryString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/backtracking/UniqueBinaryString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/backtracking/UniqueBinaryStringNonOptimised.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/backtracking/UniqueBinaryStringNonOptimised.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,7 +174,9 @@
       <workItem from="1675885746093" duration="1654000" />
       <workItem from="1675888189672" duration="914000" />
       <workItem from="1675948603391" duration="5809000" />
-      <workItem from="1676004013222" duration="28959000" />
+      <workItem from="1676004013222" duration="29530000" />
+      <workItem from="1676125340869" duration="43000" />
+      <workItem from="1676129194678" duration="3435000" />
     </task>
     <servers />
   </component>
