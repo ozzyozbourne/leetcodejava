@@ -64,13 +64,13 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.subsets">
-    <configuration name="KthSmallestElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.fourteen.KthSmallestElement" />
+  <component name="RunManager" selected="Application.ReverseStringOnO1">
+    <configuration name="PermutationsTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.backtracking.PermutationsTwo" />
       <module name="leetcodejava.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.fourteen.*" />
+          <option name="PATTERN" value="org.example.backtracking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PermutationsTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.backtracking.PermutationsTwo" />
+    <configuration name="ReverseStringOnO1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.easy.ReverseStringOnO1" />
       <module name="leetcodejava.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.backtracking.*" />
+          <option name="PATTERN" value="org.example.easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverseStringOnO1" />
         <item itemvalue="Application.subsets" />
         <item itemvalue="Application.UniqueBinaryStringNonOptimised" />
         <item itemvalue="Application.UniqueBinaryString" />
         <item itemvalue="Application.PermutationsTwo" />
-        <item itemvalue="Application.KthSmallestElement" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +177,7 @@
       <workItem from="1676004013222" duration="29530000" />
       <workItem from="1676125340869" duration="43000" />
       <workItem from="1676129194678" duration="3435000" />
-      <workItem from="1676188368064" duration="4508000" />
+      <workItem from="1676188368064" duration="5907000" />
     </task>
     <servers />
   </component>
@@ -186,5 +186,16 @@
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/easy/ReverseStringOnO1.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
