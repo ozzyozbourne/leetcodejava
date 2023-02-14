@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8e12bd02-9e1f-4d9d-a3c8-529861d74473" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/backtracking/UniqueBinaryString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/backtracking/UniqueBinaryString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/dynamicprogramming/LongestIncreasingSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/dynamicprogramming/LongestIncreasingSubsequence.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,7 +179,8 @@
       <workItem from="1676125340869" duration="43000" />
       <workItem from="1676129194678" duration="3435000" />
       <workItem from="1676188368064" duration="14021000" />
-      <workItem from="1676236569737" duration="300000" />
+      <workItem from="1676236569737" duration="582000" />
+      <workItem from="1676275958483" duration="725000" />
     </task>
     <servers />
   </component>
@@ -196,11 +197,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/example/easy/ReverseStringOnO1.java</url>
           <line>7</line>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/dynamicprogramming/LongestIncreasingSubsequence.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

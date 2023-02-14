@@ -5,7 +5,6 @@ import java.util.Collections;
 
 public class LongestIncreasingSubsequence {
 
-
     public static int lengthOfLIS(int[] nums) {
         var cache = new ArrayList<>(Collections.nCopies(nums.length, 1));
         for (int i = nums.length - 1; i >= 0; i--)
