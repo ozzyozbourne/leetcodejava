@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8e12bd02-9e1f-4d9d-a3c8-529861d74473" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/dynamicprogramming/LongestIncreasingSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/dynamicprogramming/LongestIncreasingSubsequence.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,13 +64,13 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.LongestIncreasingSubsequence">
-    <configuration name="LongestIncreasingSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.dynamicprogramming.LongestIncreasingSubsequence" />
+  <component name="RunManager" selected="Application.FindMissingNumber">
+    <configuration name="FindMissingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.thirteen.FindMissingNumber" />
       <module name="leetcodejava.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.dynamicprogramming.*" />
+          <option name="PATTERN" value="org.example.thirteen.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseStringOnO1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.easy.ReverseStringOnO1" />
+    <configuration name="FrequencySort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.fourteen.FrequencySort" />
       <module name="leetcodejava.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.easy.*" />
+          <option name="PATTERN" value="org.example.fourteen.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseVowelsOfAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.easy.ReverseVowelsOfAString" />
+    <configuration name="MaxDistinctElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.fourteen.MaxDistinctElements" />
       <module name="leetcodejava.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.easy.*" />
+          <option name="PATTERN" value="org.example.fourteen.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UniqueBinaryStringNonOptimised" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.backtracking.UniqueBinaryStringNonOptimised" />
+    <configuration name="MinDistinctElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.fourteen.MinDistinctElements" />
       <module name="leetcodejava.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.backtracking.*" />
+          <option name="PATTERN" value="org.example.fourteen.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="subsets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.learning.subsets" />
+    <configuration name="SingleNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.thirteen.SingleNumber" />
       <module name="leetcodejava.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.learning.*" />
+          <option name="PATTERN" value="org.example.thirteen.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LongestIncreasingSubsequence" />
-        <item itemvalue="Application.ReverseVowelsOfAString" />
-        <item itemvalue="Application.ReverseStringOnO1" />
-        <item itemvalue="Application.subsets" />
-        <item itemvalue="Application.UniqueBinaryStringNonOptimised" />
+        <item itemvalue="Application.SingleNumber" />
+        <item itemvalue="Application.FindMissingNumber" />
+        <item itemvalue="Application.MinDistinctElements" />
+        <item itemvalue="Application.MaxDistinctElements" />
+        <item itemvalue="Application.FrequencySort" />
       </list>
     </recent_temporary>
   </component>
@@ -181,6 +180,10 @@
       <workItem from="1676188368064" duration="14021000" />
       <workItem from="1676236569737" duration="582000" />
       <workItem from="1676275958483" duration="725000" />
+      <workItem from="1676394668175" duration="14744000" />
+      <workItem from="1676452355056" duration="1265000" />
+      <workItem from="1676494549346" duration="2470000" />
+      <workItem from="1676533780337" duration="816000" />
     </task>
     <servers />
   </component>
@@ -197,6 +200,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/example/easy/ReverseStringOnO1.java</url>
           <line>7</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/thirteen/SingleNumber.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
