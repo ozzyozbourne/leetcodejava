@@ -64,13 +64,13 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FindMissingNumber">
-    <configuration name="FindMissingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.thirteen.FindMissingNumber" />
+  <component name="RunManager" selected="Application.BitShifts">
+    <configuration name="BitShifts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.learning.BitShifts" />
       <module name="leetcodejava.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.thirteen.*" />
+          <option name="PATTERN" value="org.example.learning.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FrequencySort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.fourteen.FrequencySort" />
+    <configuration name="FindMissingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.thirteen.FindMissingNumber" />
       <module name="leetcodejava.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.fourteen.*" />
+          <option name="PATTERN" value="org.example.thirteen.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BitShifts" />
         <item itemvalue="Application.SingleNumber" />
         <item itemvalue="Application.FindMissingNumber" />
         <item itemvalue="Application.MinDistinctElements" />
         <item itemvalue="Application.MaxDistinctElements" />
-        <item itemvalue="Application.FrequencySort" />
       </list>
     </recent_temporary>
   </component>
@@ -183,7 +183,9 @@
       <workItem from="1676394668175" duration="14744000" />
       <workItem from="1676452355056" duration="1265000" />
       <workItem from="1676494549346" duration="2470000" />
-      <workItem from="1676533780337" duration="816000" />
+      <workItem from="1676533780337" duration="1349000" />
+      <workItem from="1676577698768" duration="161000" />
+      <workItem from="1676577884722" duration="1069000" />
     </task>
     <servers />
   </component>
@@ -200,11 +202,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/example/easy/ReverseStringOnO1.java</url>
           <line>7</line>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/thirteen/SingleNumber.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
