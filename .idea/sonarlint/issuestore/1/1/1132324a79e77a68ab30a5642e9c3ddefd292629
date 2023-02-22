@@ -1,0 +1,9 @@
+
+f
+java:S1149	"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(„Ò¥®
+b
+java:S1124	"EReorder the modifiers to comply with the Java Language Specification.(„Ò¥®8ση€η0
+a
+java:S1124
+"EReorder the modifiers to comply with the Java Language Specification.(Ε€g8Ώ€η0
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(Μ³ªψÿÿÿÿ8έ£€η0
