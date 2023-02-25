@@ -19,6 +19,7 @@ public class FirstSubsequenceEqualToK {
         sum-=arr[index];
         res.remove(res.size() - 1);
         flag =  getSequence(index + 1,arr, k, flag);
+
         return flag;
     }
 
