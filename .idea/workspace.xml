@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8e12bd02-9e1f-4d9d-a3c8-529861d74473" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/recursion/FirstSubsequenceEqualToK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/recursion/FirstSubsequenceEqualToK.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -199,7 +198,10 @@
       <workItem from="1677243448079" duration="10000" />
       <workItem from="1677243507584" duration="6556000" />
       <workItem from="1677264001343" duration="1796000" />
-      <workItem from="1677305561804" duration="3549000" />
+      <workItem from="1677305561804" duration="4863000" />
+      <workItem from="1677410029959" duration="10000" />
+      <workItem from="1677611509605" duration="708000" />
+      <workItem from="1677612259790" duration="1708000" />
     </task>
     <servers />
   </component>
